@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "launch": "npx ts-node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
